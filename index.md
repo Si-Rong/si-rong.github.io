@@ -3,9 +3,7 @@ layout: home
 description: A list of all current members and their contact information. See if you find someone you know!
 ---
 
-
 <br>
-
 
 <table>
   <thead>
@@ -22,5 +20,4 @@ description: A list of all current members and their contact information. See if
     </tr>
   </tbody>
 </table>
-<script type="text/javascript" src="discord.11.6.4.min.js"></script>
 <script type="text/javascript" src="populate-table.js"></script>
