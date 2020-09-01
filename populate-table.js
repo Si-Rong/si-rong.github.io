@@ -13,7 +13,7 @@ var HttpClient = function() {
 };
   
 var httpClient = new HttpClient();
-httpClient.get("http://beam.igregory.ca/members", function(response) {
+httpClient.get("https://beam.igregory.ca/members", function(response) {
   const members = JSON.parse(response);
       
   var memberDataTBody = document.getElementById("member-data");
